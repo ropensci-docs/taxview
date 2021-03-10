@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "02d38d2f11419cefb795b1935d7f6a56041de081",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-03-10 01:22:50",
+    "files": 2,
+    "merge": false,
+    "message": "change repostatus badge to suspended\n"
+  },
+  "remote": "https://github.com/ropensci/taxview",
+  "pkg": "taxview"
+}
